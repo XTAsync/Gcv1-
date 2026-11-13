@@ -2,9 +2,7 @@
   <img src="assets/logo.svg" alt="Gcv1- logo" width="180" />
 </p>
 
-<p align="center">
-  <img src="assets/logo.svg" alt="Gcv1- logo" width="180" />
-</p>
+
 
 # AlphaTrade — Android Trading App
 
